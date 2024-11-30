@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Pk03nIHexbThV7mkVZEx6LHZ5rzmZpDa3wgasi61VM363oPghns3638LAw7hEWvXnJRackpACWkMWDbI23576Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bende\\Source\\Repos\\opsdev\\WebApplication1\\WebApplication1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bende\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\microsoft.visualstudio.azure.containers.tools.targets.1.19.6.nupkg.sha512"
+  ],
+  "logs": []
+}
